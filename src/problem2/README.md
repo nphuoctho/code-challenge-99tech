@@ -21,3 +21,7 @@ Please submit your solution using the files provided in the skeletal repo, inclu
 <aside>
 💡 Hint: feel free to simulate or mock interactions with a backend service, e.g. implement a loading indicator with a timeout delay for the submit button is good enough.
 </aside>
+
+## Task Preview
+
+**Live demo:** [99tech-fancy-form.surge.sh](https://99tech-fancy-form.surge.sh/)
